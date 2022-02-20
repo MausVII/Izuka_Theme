@@ -1,0 +1,22 @@
+{
+    "name": "izuka",
+    "displayName": "Izuka",
+    "description": "Soft color theme",
+    "version": "0.0.1",
+    "publisher": "Izuka",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Izuka",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Elan-color-theme.json"
+            }
+        ]
+    }
+}
