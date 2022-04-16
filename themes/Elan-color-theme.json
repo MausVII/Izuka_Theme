@@ -238,7 +238,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#d1c7b3"
 			}
 		},
 		{
@@ -297,6 +297,45 @@
 			],
 			"settings": {
 				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "JS vars",
+			"scope": [
+				"variable.other.object.js",
+				"variable.other.readwrite.js",
+				"variable.other.constant.js"
+			],
+			"settings": {
+				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "C# vars",
+			"scope": [
+				"entity.name.variable.local.cs",
+			],
+			"settings": {
+				"foreground": "#EEFFFF",
+			}
+		},
+		{
+			"name": "JS vars",
+			"scope": [
+				"variable.other.object.property.js",
+				"variable.other.property.js"
+			],
+			"settings": {
+				"foreground": "#d1c7b3"
+			}
+		},
+		{
+			"name": "Python built-ins",
+			"scope": [
+				"support.type.python"
+			],
+			"settings": {
+				"foreground": "#ECED8B"
 			}
 		},
 		{
