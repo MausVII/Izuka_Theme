@@ -2,7 +2,7 @@
     "name": "izuka",
     "displayName": "Izuka",
     "description": "Soft color theme",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "publisher": "Izuka",
     "engines": {
         "vscode": "^1.63.0"
